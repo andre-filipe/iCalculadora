@@ -31,3 +31,4 @@ C:\Users\andre\Documents\Repos\ADA\iCalculadora\iCalculadora.Library\obj\Debug\n
 C:\Users\andre\Documents\Repos\ADA\iCalculadora\iCalculadora.Library\obj\Debug\net8.0\refint\iCalculadora.Library.dll
 C:\Users\andre\Documents\Repos\ADA\iCalculadora\iCalculadora.Library\obj\Debug\net8.0\iCalculadora.Library.pdb
 C:\Users\andre\Documents\Repos\ADA\iCalculadora\iCalculadora.Library\obj\Debug\net8.0\ref\iCalculadora.Library.dll
+C:\Users\andre\Documents\Repos\ADA\iCalculadora\iCalculadora.Library\obj\Debug\net8.0\iCalculadora.Library.sourcelink.json
