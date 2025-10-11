@@ -34,12 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,7 +44,7 @@
               "RelativeDocumentMoniker": "iCalculadora.Test\\Program.cs",
               "ToolTip": "C:\\Users\\andre\\Documents\\Repos\\ADA\\iCalculadora\\iCalculadora.Test\\Program.cs",
               "RelativeToolTip": "iCalculadora.Test\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAASwEcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T17:46:29.199Z",
               "EditorCaption": ""
@@ -63,8 +59,7 @@
               "RelativeToolTip": "iCalculadora.UI\\Form1.Designer.cs",
               "ViewState": "AgIAAMMAAAAAAAAAAAAYwMwAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T17:41:47.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T17:41:47.987Z"
             },
             {
               "$type": "Document",
@@ -75,8 +70,7 @@
               "ToolTip": "C:\\Users\\andre\\Documents\\Repos\\ADA\\iCalculadora\\iCalculadora.UI\\Form1.cs [Design]",
               "RelativeToolTip": "iCalculadora.UI\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T17:41:46.151Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-10T17:41:46.151Z"
             },
             {
               "$type": "Document",

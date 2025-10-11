@@ -1,0 +1,57 @@
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build logs
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Packages
+packages/
+*.nupkg
+*.snupkg
+
+# Backup / Auto-generated files
+*.tmp
+*.bak
+*.old
+*.cache
+*.ide
+*.pidb
+*.svclog
+*.pdb
+
+# Test results
+TestResult*/
+*.trx
+*.coverage
+*.coveragexml
+
+# Publish artifacts
+publish/
+dist/
+
+# Other IDEs
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
